@@ -1,0 +1,54 @@
+/*----------------------------------------------
+DeepSystem Corp
+------------------------------------------------*/
+
+    .submit {
+      background-color: #33A2FF;
+      border: none;
+      color: white;
+      padding: 3px 10px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+      border-radius: 10px 10px 10px 10px;
+      font-family: "Homer Simpson UI";
+      height: 35px;
+      margin: 2px;
+    }
+
+    .date {
+      background-color: #33A2FF;
+      border: none;
+      color: white;
+      padding: 5px 15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+      border-radius: 10px 10px 10px 10px;
+      height: 35px;
+      font-family: "Homer Simpson UI";
+      margin: 2px;
+    }
+    .escanor {
+      background-color: #2D6DC3;
+      border: none;
+      color: white;
+      padding: 5px 65px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 24px;
+      border-radius: 5px 5px 5px 5px;
+      height: 35px;
+      font-family: "Homer Simpson UI";
+      margin: 2px;
+    }
+/*----------------------------------------------
+    FILTROS  STYLES    
+------------------------------------------------*/
+
+/*----------------------------------------------
+   DASHBOARD STYLES    
+------------------------------------------------*/
